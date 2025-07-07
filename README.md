@@ -85,10 +85,10 @@ This project is a real-time, explainable AI-based Intrusion Detection System (ID
 
 ## 📷 Sample Visual Outputs
 **Figure 1:** *Live detection dashboard screenshot*  
-![Dashboard](Images/Screenshot 2025-05-22 150754.png)
+![image alt]([Images/Screenshot 2025-05-22 150754.png](https://github.com/karthikeya-27/Intrusion-Detection/blob/892fb3a70754fde61680d0a6986361ed29256105/Images/Screenshot%202025-05-22%20150754.png))
 
 **Figure 2:**  
-![Dashboard](Images/Screenshot 2025-05-22 150800.png)
+![image alt](Images/Screenshot 2025-05-22 150800.png)
 
 ---
 
