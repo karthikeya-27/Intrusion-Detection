@@ -4,21 +4,21 @@ This project is a real-time, explainable AI-based Intrusion Detection System (ID
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
-- 🔍 **Anomaly Detection with Autoencoder**  
+- **Anomaly Detection with Autoencoder**  
   Learns the normal behavior of network traffic and detects deviations without needing labeled attack data.
 
-- 🌲 **Attack Classification using Random Forest**  
+- **Attack Classification using Random Forest**  
   Known attack patterns are classified using a trained Random Forest model into categories like DoS, Brute Force, Port Scanning, etc.
 
-- ⚖️ **Imbalanced Data Handling with SMOTE**  
+- **Imbalanced Data Handling with SMOTE**  
   Applies SMOTE (Synthetic Minority Oversampling Technique) to balance attack vs. normal traffic classes during training.
 
-- 🧠 **Explainable AI with LIME**  
+- **Explainable AI with LIME**  
   Each classification decision is accompanied by LIME-based local interpretations to explain which features influenced the model’s prediction.
 
-- 📊 **Real-time Web Dashboard (Frontend)**  
+- **Real-time Web Dashboard (Frontend)**  
   A live interface displays:
   - Detected attack type  
   - Risk score  
@@ -27,7 +27,7 @@ This project is a real-time, explainable AI-based Intrusion Detection System (ID
 
 ---
 
-## 🧠 Machine Learning Overview
+## Machine Learning Overview
 
 ### 1. **Autoencoder (Unsupervised Learning)**
 - Trained on benign traffic only
@@ -45,7 +45,7 @@ This project is a real-time, explainable AI-based Intrusion Detection System (ID
 
 ---
 
-## 📊 Dataset Used: CICIDS-2018
+## Dataset Used: CICIDS-2018
 
 - **Source**: Canadian Institute for Cybersecurity  
   [Link to dataset](https://www.unb.ca/cic/datasets/ids-2018.html)
@@ -85,10 +85,10 @@ This project is a real-time, explainable AI-based Intrusion Detection System (ID
 
 ## 📷 Sample Visual Outputs
 **Figure 1:** *Live detection dashboard screenshot*  
-![Dashboard](Images\Screenshot 2025-05-22 150754.png)
+![Dashboard](Images/Screenshot 2025-05-22 150754.png)
 
 **Figure 2:**  
-![Dashboard](Images\Screenshot 2025-05-22 150800.png)
+![Dashboard](Images/Screenshot 2025-05-22 150800.png)
 
 ---
 
