@@ -45,8 +45,6 @@ This project is a real-time, explainable AI-based Intrusion Detection System (ID
 
 ---
 
----
-
 ## 📊 Dataset Used: CICIDS-2018
 
 - **Source**: Canadian Institute for Cybersecurity  
